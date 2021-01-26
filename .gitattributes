@@ -1,0 +1,6 @@
+*.txt   text
+*.md    text
+*.py    text diff=python
+*.html  text diff=html
+
+*       text=auto
